@@ -99,6 +99,7 @@ plot(t,eam);
 
 Output Waveform
 
+<img width="1058" height="928" alt="image" src="https://github.com/user-attachments/assets/0f0b7a82-5c1a-457b-b034-7874d3edf968" />
 
 
 
